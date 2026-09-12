@@ -1,2 +1,9 @@
-# cadecom.github.io
-Official website for Cadecom — A modern brand built around clear ideas, useful experiences, and long-term growth.
+# Cadecom Website
+
+Official website repository for Cadecom.
+
+Generated with BrandForge Autopilot V10 — Complete GitHub Builder.
+
+https://cadecom.github.io/
+
+© 2026 Cadecom. All rights reserved.
