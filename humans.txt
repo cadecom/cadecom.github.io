@@ -1,3 +1,4 @@
 Cadecom
 Built for What Comes Next.
-Generated with BrandForge Autopilot V10 Complete GitHub Builder.
+Support: GitHub: https://github.com/cadecom
+Generated with BrandForge Autopilot V11 Enterprise Complete Site Builder.

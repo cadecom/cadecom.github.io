@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Cadecom — Built for What Comes Next.",
+    "h1": "Built for What Comes Next.",
+    "description": "A modern brand built around clear ideas, useful experiences, and long-term growth.",
+    "path": "index.html"
+  },
+  {
+    "title": "Capabilities",
+    "h1": "Capabilities built to work together.",
+    "description": "Explore the complete capability system behind Cadecom.",
+    "path": "services.html"
+  },
+  {
+    "title": "About",
+    "h1": "Built as a complete brand system.",
+    "description": "The direction, principles, and digital identity behind Cadecom.",
+    "path": "about.html"
+  },
+  {
+    "title": "Approach",
+    "h1": "A deliberate path from idea to experience.",
+    "description": "How Cadecom turns direction into a complete digital experience.",
+    "path": "approach.html"
+  },
+  {
+    "title": "Principles",
+    "h1": "The rules that keep the experience strong.",
+    "description": "The design and publishing principles used throughout Cadecom.",
+    "path": "principles.html"
+  },
+  {
+    "title": "Insights",
+    "h1": "Ideas with enough depth to be useful.",
+    "description": "Ideas, frameworks, and practical thinking from the Cadecom brand system.",
+    "path": "insights.html"
+  },
+  {
+    "title": "Resources",
+    "h1": "Useful paths through the brand.",
+    "description": "Explore the core resources and reference pages for Cadecom.",
+    "path": "resources.html"
+  },
+  {
+    "title": "Support",
+    "h1": "Support, organized around the next useful action.",
+    "description": "Support center for Cadecom.",
+    "path": "support.html"
+  },
+  {
+    "title": "Support Request",
+    "h1": "A better support request starts with the right context.",
+    "description": "Prepare a support request for Cadecom.",
+    "path": "support-request.html"
+  },
+  {
+    "title": "Help Center",
+    "h1": "Find the right answer before opening a request.",
+    "description": "Help center for Cadecom.",
+    "path": "help-center.html"
+  },
+  {
+    "title": "Getting Started",
+    "h1": "Start with context, then move to the right path.",
+    "description": "Getting started with Cadecom.",
+    "path": "getting-started.html"
+  },
+  {
+    "title": "Service Status",
+    "h1": "Operational information without invented uptime.",
+    "description": "Operational status information for Cadecom.",
+    "path": "status.html"
+  },
+  {
+    "title": "Search",
+    "h1": "Find the right page quickly.",
+    "description": "Search the Cadecom website.",
+    "path": "search.html"
+  },
+  {
+    "title": "Trust Center",
+    "h1": "Trust is built from accurate information.",
+    "description": "Trust, security, privacy, accessibility, and support information for Cadecom.",
+    "path": "trust-center.html"
+  },
+  {
+    "title": "FAQ",
+    "h1": "Questions, answered clearly.",
+    "description": "Frequently asked questions about Cadecom and the structure of this website.",
+    "path": "faq.html"
+  },
+  {
+    "title": "Contact",
+    "h1": "Reach the right channel.",
+    "description": "Contact Cadecom through available verified channels.",
+    "path": "contact.html"
+  },
+  {
+    "title": "Site Map",
+    "h1": "Every important path, in one place.",
+    "description": "Complete site map for Cadecom.",
+    "path": "sitemap.html"
+  },
+  {
+    "title": "Privacy",
+    "h1": "Privacy",
+    "description": "Privacy information for the Cadecom website.",
+    "path": "privacy.html"
+  },
+  {
+    "title": "Terms",
+    "h1": "Terms",
+    "description": "Terms information for the Cadecom website.",
+    "path": "terms.html"
+  },
+  {
+    "title": "Accessibility",
+    "h1": "Accessibility",
+    "description": "Accessibility information for the Cadecom website.",
+    "path": "accessibility.html"
+  },
+  {
+    "title": "Security",
+    "h1": "Security",
+    "description": "Security information for the Cadecom website.",
+    "path": "security.html"
+  },
+  {
+    "title": "Acceptable Use",
+    "h1": "Use public resources responsibly.",
+    "description": "Acceptable-use framework for the Cadecom website and public resources.",
+    "path": "acceptable-use.html"
+  },
+  {
+    "title": "Page not found",
+    "h1": "That page isn’t here.",
+    "description": "The requested page could not be found on Cadecom.",
+    "path": "404.html"
+  },
+  {
+    "title": "Solutions Capability",
+    "h1": "Solutions",
+    "description": "Cadecom — Solutions. Solutions is treated as part of the complete Cadecom experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "solutions.html"
+  },
+  {
+    "title": "Experience Design Capability",
+    "h1": "Experience Design",
+    "description": "Cadecom — Experience Design. Experience Design is treated as part of the complete Cadecom experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "experience-design.html"
+  },
+  {
+    "title": "Operations Capability",
+    "h1": "Operations",
+    "description": "Cadecom — Operations. Operations is treated as part of the complete Cadecom experience — designed to connect the system while keeping the experience clear, useful, and maintainable.",
+    "path": "operations.html"
+  },
+  {
+    "title": "Partnerships Capability",
+    "h1": "Partnerships",
+    "description": "Cadecom — Partnerships. Partnerships is treated as part of the complete Cadecom experience — designed to simplify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "partnerships.html"
+  },
+  {
+    "title": "Resources Capability",
+    "h1": "Resources",
+    "description": "Cadecom — Resources. Resources is treated as part of the complete Cadecom experience — designed to clarify the system while keeping the experience clear, useful, and maintainable.",
+    "path": "capability-resources.html"
+  },
+  {
+    "title": "Designing a brand as a system",
+    "h1": "Designing a brand as a system",
+    "description": "Why consistent structure, language, visuals, and interaction patterns create a stronger digital identity.",
+    "path": "insight-1.html"
+  },
+  {
+    "title": "Clarity before complexity",
+    "h1": "Clarity before complexity",
+    "description": "A practical approach to building a site that feels complete without becoming difficult to understand.",
+    "path": "insight-2.html"
+  },
+  {
+    "title": "What makes a digital experience feel intentional",
+    "h1": "What makes a digital experience feel intentional",
+    "description": "How hierarchy, pacing, imagery, typography, and content work together across a full website.",
+    "path": "insight-3.html"
+  }
+]

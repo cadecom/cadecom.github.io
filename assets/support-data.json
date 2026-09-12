@@ -1,0 +1,12 @@
+{
+  "brand": "Cadecom",
+  "email": null,
+  "phone": null,
+  "hours": null,
+  "supportCenter": "https://cadecom.github.io/support.html",
+  "supportRequest": "https://cadecom.github.io/support-request.html",
+  "helpCenter": "https://cadecom.github.io/help-center.html",
+  "status": "https://cadecom.github.io/status.html",
+  "trustCenter": "https://cadecom.github.io/trust-center.html",
+  "github": "https://github.com/cadecom"
+}
